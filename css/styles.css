@@ -1,0 +1,54 @@
+#page-1-header {
+  color: rgb(241, 241, 241);
+  background-color: rgb(0, 204, 255);
+  font: Monaco;
+  text-align: center;
+}
+
+#main-page-menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 20%;
+  background-color: #f1f1f1;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 80%;
+  background-color: #f1f1f1;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover on all navigation bar */
+li a:hover {
+  background-color: #ee9740;
+  color: white;
+}
+img {
+  align-content: center;
+}
+
+#navbar {
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: rgb(0, 204, 255);
+  padding: 20px 0;
+  font-size: 20px;
+  border-bottom: 1px solid;
+}
+.nav-links {
+  display: flex;
+  list-style: none;
+  font-family: sans-serif;
+}

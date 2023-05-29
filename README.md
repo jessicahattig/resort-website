@@ -31,7 +31,11 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 * _should go here_
 
 ## Live Website
+<<<<<<< HEAD
 [Cat Island Resort](jessicahattig.github.io/resort-website)
+=======
+[Cat Island Resort] (jessicahattig.github.io/resort website)
+>>>>>>> second-option
 
 ## License
 
