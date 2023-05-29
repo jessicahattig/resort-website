@@ -1,3 +1,10 @@
-h1 {
-  color: green;
+#page-1-header {
+  color: rgb(241, 241, 241);
+  background-color: rgb(0, 204, 255);
+  font: Monaco;
+  text-align: center;
+}
+
+img {
+  align-content: center;
 }
